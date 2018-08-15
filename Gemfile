@@ -94,6 +94,7 @@ gem "therubyracer", "~> 0.12", platforms: :ruby
 gem "timber", "~> 2.6"
 gem "twilio-ruby", "~> 5.10"
 gem "twitter", "~> 6.2"
+gem "tzinfo-data"
 gem "uglifier", "~> 3.2"
 gem "validate_url", "~> 1.0"
 gem "webpacker", "~> 3.5"

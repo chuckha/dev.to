@@ -864,6 +864,8 @@ GEM
       simple_oauth (~> 0.3.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2018.5)
+      tzinfo (>= 1.0.0)
     uber (0.1.0)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
@@ -1031,6 +1033,7 @@ DEPENDENCIES
   timecop (~> 0.9)
   twilio-ruby (~> 5.10)
   twitter (~> 6.2)
+  tzinfo-data
   uglifier (~> 3.2)
   validate_url (~> 1.0)
   vcr (~> 4.0)
